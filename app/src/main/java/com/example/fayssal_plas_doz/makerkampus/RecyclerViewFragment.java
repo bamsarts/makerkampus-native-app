@@ -15,7 +15,7 @@ public class RecyclerViewFragment extends Fragment implements SwipeRefreshLayout
         private SwipeRefreshLayout mSwipeRefreshLayout;
 
         private void loadPosts(int page, final boolean showLoadingMsg){
-
+                private
         }
 
         /**
